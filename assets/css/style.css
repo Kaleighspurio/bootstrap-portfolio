@@ -3,9 +3,11 @@ body {
 }
 
 .main {
-    margin: 20px;
-    background-color: #dedfe0;
+    margin-top: 40px;
+    padding: 20px 30px;
+    background-color: #e0e0d8;
+    border-radius: 15px;
 }
 .my-image {
-    margin: 2px 10px;
+    margin: 2px 15px;
 }
