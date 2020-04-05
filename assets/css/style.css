@@ -1,3 +1,11 @@
 body {
-    background-image: url(https://i.pinimg.com/originals/ef/19/29/ef1929f8e11b1408ee388e51f09e8d88.jpg);
+    background-image: url(https://image.freepik.com/free-vector/vintage-ornamental-flowers-background_52683-28040.jpg);
+}
+
+.main {
+    margin: 20px;
+    background-color: #dedfe0;
+}
+.my-image {
+    margin: 2px 10px;
 }
