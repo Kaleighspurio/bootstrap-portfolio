@@ -30,25 +30,30 @@ a:hover {
     padding:0;
 }
 
+.nav-item{
+    padding-right: 10px;
+}
+
 .main {
     margin-top: 40px;
     margin-bottom: 80px;
-    padding: 20px 30px;
+    padding: 20px 40px;
     background-color: #e0e0d8;
     border-radius: 15px;
 }
 
 .container {
-    font-size: 18px;
+    font-size: 20px;
 }
 
 h2 {
     color: #366089;
     font-weight: bold;
+    padding-left: 15px;
 }
 
 .my-image {
-    margin: 2px 15px;
+    margin: 2px 15px 2px 15px;
 }
 
 .card {
