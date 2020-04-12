@@ -58,6 +58,16 @@ h2 {
     width: 25%;
 }
 
+.linkedin {
+    width: 50px;
+    margin-left: 10px;
+}
+
+.linked {
+    float: right;
+    font-size: medium;
+}
+
 .card {
     padding: 0;
 }
