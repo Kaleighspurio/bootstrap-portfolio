@@ -91,6 +91,7 @@ figure {
     position: absolute;
     bottom: 8px;
     left: 0;
+    font-size: 18px;
 }
 
 .navbar-bottom {
