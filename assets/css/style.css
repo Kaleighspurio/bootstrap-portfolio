@@ -58,9 +58,17 @@ h2 {
     width: 25%;
 }
 
-.linkedin {
+.linkedin-img {
     width: 50px;
     margin-left: 10px;
+}
+
+.icons {
+    margin: 10px;
+}
+
+figure {
+    text-align: center;
 }
 
 .linked {
