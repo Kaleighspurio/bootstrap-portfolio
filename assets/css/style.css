@@ -1,5 +1,5 @@
 body {
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Montserrat', sans-serif;
     background-image: url(https://image.freepik.com/free-vector/vintage-ornamental-flowers-background_52683-28040.jpg);
 }
 
@@ -28,6 +28,7 @@ a:hover {
 .navbar-top {
     background-color: #aeaeae;
     padding:0;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .nav-item{
@@ -36,7 +37,7 @@ a:hover {
 
 .main {
     margin-top: 40px;
-    margin-bottom: 80px;
+    margin-bottom: 100px;
     padding: 20px 40px;
     background-color: #e0e0d8;
     border-radius: 15px;
@@ -51,11 +52,16 @@ h2 {
     font-weight: bold;
     padding-left: 15px;
     padding-bottom: 10px;
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .my-image {
     margin: 2px 15px 2px 15px;
     width: 25%;
+}
+
+.text {
+    font-size: 15px;
 }
 
 .linkedin-img {
@@ -96,6 +102,11 @@ figure {
     bottom: 8px;
     left: 0;
     font-size: 17px;
+    font-family: 'Cormorant Garamond', serif;
+}
+
+.modal-title {
+    font-family: 'Cormorant Garamond', serif;
 }
 
 .modal-paragraphs {
@@ -118,4 +129,7 @@ figure {
 .navbar-bottom {
     background-color: #aeaeae;
     border-top: 5px solid #366089;
+    padding: 0px;
+    line-height: 1.2;
+    font-family: 'Cormorant Garamond', serif;
 }
