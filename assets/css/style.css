@@ -86,6 +86,11 @@ figure {
     padding: 0;
 }
 
+.card:hover {
+    width: 105%;
+    border: solid 2px #366089;
+}
+
 .card-img-top {
     min-height: 90px;
 }
