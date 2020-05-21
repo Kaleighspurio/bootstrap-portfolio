@@ -31,9 +31,9 @@ a:hover {
     font-family: 'Cormorant Garamond', serif;
 }
 
-.nav-item{
-    padding-right: 10px;
-}
+/* .nav-item{
+    padding-right: 5px;
+} */
 
 .main {
     margin-top: 40px;
@@ -71,6 +71,10 @@ h2 {
 
 .icons {
     margin: 10px;
+}
+
+.icon-text {
+    font-size: x-small;
 }
 
 figure {
